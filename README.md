@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @swapnilguptaaa
 - 👀 I’m interested in programming and innovating something phenomenal.
-- 🌱 I’m currently learning new skills(java,dsa,web devlopment)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning new skills (java, dsa, web devlopment)
 - 📫 How to reach me - LinkedIn/Instagram : @swapnilguptaaa
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have anger issues and I may explode while programming, so maintain it cool always.
